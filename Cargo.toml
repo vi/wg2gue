@@ -2,6 +2,12 @@
 name = "wg2gue"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/vi/wg2gue"
+license = "MIT/Apache-2.0"
+description = "Command-line application that listens two UDP ports: one for Wireguard and the other for plain IP packets and exchanges them"
+categories = ["network-programming", "command-line-utilities"]
+keywords = ["udp", "wireguard", "boringtun", "gue", "fou"]
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
